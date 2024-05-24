@@ -119,7 +119,7 @@ export default function Home() {
             <li>
               <span className="font-semibold">Hackathons:</span>{" "}
               <span className="italic">
-                (because I was too bad at competitive programming)
+                (as a fun change from competitive programming)
               </span>
               <ul className="ml-12 list-[square]">
                 <li>
@@ -151,7 +151,7 @@ export default function Home() {
             <li>
               <span className="font-semibold">Competitive Programming:</span>{" "}
               <span className="italic">
-                (because I was too bad at competitive math)
+                (found it much more enjoyable than competitive math)
               </span>
               <ul className="ml-12 list-[square]">
                 <li>
